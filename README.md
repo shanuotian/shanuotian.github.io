@@ -1,4 +1,10 @@
 # 个人博客
 
+这是我的个人博客项目，里面会记录生活和技术的点点滴滴。
 
-## CNAME111文件原名CNAME，CNAME 是定制域名的时候使用的内容，如果不使用定制域名会存在冲突。
+
+访问地址：[https://shanuotian.github.io/](https://shanuotian.github.io/)
+
+
+博客主题使用:[Yummy-Jekyll](https://github.com/DONGChuan/Yummy-Jekyll)
+

@@ -2,7 +2,6 @@
 layout: page
 title: vue 系列文章
 titlebar: vue
-subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
 menu: vue
 css: ['blog-page.css']
 permalink: /vue

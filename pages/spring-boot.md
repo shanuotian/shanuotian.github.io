@@ -2,7 +2,6 @@
 layout: page
 title: Spring Boot 系列文章
 titlebar: spring-boot
-subtitle: <span class="mega-octicon octicon-cloud-download"></span>&nbsp;&nbsp;
 menu: spring-boot
 css: ['blog-page.css']
 permalink: /spring-boot

@@ -7,8 +7,8 @@
 
 # Site settings
 title:  夜狼之神
-subtitle: 菜鸟之路
-name: 夜狼之神 (注：本博客建立与2019-08-11  此日期前的博客来源于纯洁的微笑博客（http://www.ityouknow.com）)
+subtitle: 菜鸟之路(注：本博客建立与2019-08-11  此日期前的博客来源于纯洁的微笑博客（http://www.ityouknow.com）)
+name: 夜狼之神 
 email: illy623@163.com
 description: 本站是夜狼之神的技术分享博客。内容涵盖生活故事、Java后端技术、Java前端技术、Spring Boot、知识分享。
 keywords: 夜狼之神,Spring Boot,VUE

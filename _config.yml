@@ -100,15 +100,20 @@ navs:
     href: /spring-boot.html
     label: Spring Boot
     target: _blank
-    subnav:
+#    subnav:
 
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
+#      -
+#        subHref: /spring-boot.html
+#        subLabel: Spring Boot
+#
+#      -
+#        subHref: /spring-cloud.html
+#        subLabel: Spring Cloud
 
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+  -
+    href: /vue.html
+    label: vue
+    target: _blank
 
 #  -
 #    href: /spring-cloud.html
